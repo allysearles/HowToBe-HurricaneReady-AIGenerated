@@ -169,10 +169,10 @@
 		background-color: rgba(255, 255, 255, 0.52);
 
 		border-radius: 50%;
-		margin: 180px auto;
-		min-width: 345px;
+		margin: 145px auto;
+		min-width: 340px;
 		max-width: 30px;
-		height: 345px;
+		height: 340px;
 	}
 
 	h1 {
@@ -212,7 +212,7 @@
 		color: white;
 		max-width: 250px;
 		margin: 0 auto;
-		margin-top: -140px;
+		margin-top: -100px;
 		font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
 			"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 	}
@@ -224,7 +224,7 @@
 		display: flex;
 	}
 	.form-container {
-		padding: 10px;
+		padding: 15px;
 
 		margin-top: -25px;
 		margin-right: 8px;
